@@ -1,9 +1,11 @@
 {
-  "extends": ["airbnb"],
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
   "globals": {
     "window": true
   },
   "rules": {
+    "prettier/prettier": ["error"],
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "jsx-a11y/anchor-is-valid": "off",
     "react/destructuring-assignment": "off",
