@@ -6,6 +6,9 @@
     "build": "next build",
     "start": "next start"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "dependencies": {
     "classnames": "2.2.6",
     "date-fns": "2.10.0",
@@ -17,6 +20,12 @@
     "remark-html": "10.0.0"
   },
   "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.4.0"
   },
