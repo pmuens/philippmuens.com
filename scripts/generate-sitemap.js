@@ -5,7 +5,7 @@ const SitemapGenerator = require('sitemap-generator')
 const { readFile, writeFile } = require('fs-extra')
 
 const localhost = 'http://127.0.0.1:3000'
-const { domain } = require('../next.config.js')
+const { domain } = require('../core.config.js')
 
 const sitemapFilePath = join(__dirname, '..', 'public', 'sitemap.xml')
 

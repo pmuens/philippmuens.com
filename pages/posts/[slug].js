@@ -7,9 +7,8 @@ import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
-import Head from 'next/head'
-import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
+import { NextSeo } from 'next-seo'
 
 export default function Post({ post, morePosts, preview }) {
   const router = useRouter()
@@ -24,13 +23,12 @@ export default function Post({ post, morePosts, preview }) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
+            <NextSeo
+              title={post.title}
+              description={post.description}
+              openGraph={{ images: [{ url: post.ogImage.url, alt: post.title }] }}
+            />
             <article className="mb-32">
-              <Head>
-                <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
-                </title>
-                <meta property="og:image" content={post.ogImage.url} />
-              </Head>
               <PostHeader
                 title={post.title}
                 coverImage={post.coverImage}
@@ -55,6 +53,7 @@ export async function getStaticProps({ params }) {
     'content',
     'ogImage',
     'coverImage',
+    'description',
   ])
   const content = await markdownToHtml(post.content || '')
 
