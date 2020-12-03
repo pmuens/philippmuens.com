@@ -26,7 +26,6 @@ async function buildSitemap(url) {
 
   return new Promise((resolve, reject) => {
     generator.on('done', () => {
-      log(`Created sitemap.xml for "${url}"...`)
       const result = generator.getSitemap()
       resolve(result)
     })
@@ -55,7 +54,6 @@ async function main() {
 
   let content = await readFile(sitemapFilePath, 'utf8')
   content = updateUrls(content, localhost, domain)
-  log(`Updated "${localhost}" URLs in "sitemap.xml" with "${domain}" URLs...`)
 
   // Add a newline because of https://stackoverflow.com/a/729795
   content = `${content}\n`
