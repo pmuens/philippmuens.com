@@ -1,12 +1,12 @@
 import { DefaultSeo } from 'next-seo'
 import '../styles/index.css'
-import { blogTitle, blogDescription } from '../core.config'
+import { blogName, blogDescription } from '../core.config'
 
 export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <DefaultSeo
-        title={blogTitle}
+        title={blogName}
         description={blogDescription}
         titleTemplate="%s - Philipp Muens"
       />

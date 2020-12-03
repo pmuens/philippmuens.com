@@ -1,3 +1,5 @@
+/* eslint-disable global-require */
+
 module.exports = {
   async rewrites() {
     return [
@@ -9,8 +11,8 @@ module.exports = {
   },
   webpack: (config, { isServer }) => {
     if (isServer) {
-      // eslint-disable-next-line
       require('./scripts/generate-sitemap')
+      require('./scripts/generate-rss')
     }
 
     return config
