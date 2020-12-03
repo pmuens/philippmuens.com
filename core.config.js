@@ -3,4 +3,5 @@ module.exports = {
   domain: 'https://philippmuens.com',
   blogName: 'The Intersection',
   blogDescription: 'Thoughts on Software Engineering, Science and Startups',
+  trackingId: 'UA-134752024-1',
 }
