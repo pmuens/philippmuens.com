@@ -17,6 +17,11 @@ export default class MyDocument extends Document {
                 gtag('config', '${trackingId}');`,
             }}
           />
+          <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+            crossOrigin="anonymous"
+          />
         </Head>
         <body>
           <Main />

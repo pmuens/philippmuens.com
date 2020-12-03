@@ -2,7 +2,9 @@ const { join } = require('path')
 const { Feed } = require('feed')
 const matter = require('gray-matter')
 const remark = require('remark')
-const html = require('remark-html')
+const md = require('remark-parse')
+const remark2rehype = require('remark-rehype')
+const stringify = require('rehype-stringify')
 const { readdir, readFile, writeFile, ensureDir } = require('fs-extra')
 
 const { getPostPath } = require('../lib/utils')
@@ -23,7 +25,9 @@ async function getAllPosts() {
       const fields = ['slug', 'title', 'description', 'content', 'author', 'date']
       const items = {}
 
-      const contentAsHtml = (await remark().use(html).process(content)).toString()
+      const contentAsHtml = (
+        await remark().use(md).use(remark2rehype).use(stringify).process(content)
+      ).toString()
 
       fields.forEach((field) => {
         if (field === 'slug') {
