@@ -4,6 +4,10 @@ module.exports = {
   async rewrites() {
     return [
       {
+        source: '/rss',
+        destination: '/rss/feed.xml',
+      },
+      {
         source: '/:slug',
         destination: '/posts/:slug',
       },
