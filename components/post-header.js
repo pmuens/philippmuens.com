@@ -1,8 +1,8 @@
-import Avatar from '../components/avatar'
-import CoverImage from '../components/cover-image'
-import PostTitle from '../components/post-title'
+import Avatar from './avatar'
+import CoverImage from './cover-image'
+import PostTitle from './post-title'
 
-export default function PostHeader({ title, coverImage, date, author }) {
+export default function PostHeader({ title, coverImage, author }) {
   return (
     <>
       <PostTitle>{title}</PostTitle>

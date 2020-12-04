@@ -1,9 +1,9 @@
-import Avatar from '../components/avatar'
-import CoverImage from './cover-image'
 import Link from 'next/link'
+import Avatar from './avatar'
+import CoverImage from './cover-image'
 import { getPostPath } from '../lib/utils'
 
-export default function PostPreview({ title, coverImage, date, excerpt, author, slug }) {
+export default function PostPreview({ title, coverImage, excerpt, author, slug }) {
   return (
     <div>
       <div className="mb-5">

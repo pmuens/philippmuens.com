@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import Container from './container'
 import cn from 'classnames'
+import Container from './container'
 
 export default function Alert({ preview }) {
   return (

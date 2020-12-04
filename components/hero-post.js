@@ -1,9 +1,9 @@
-import Avatar from '../components/avatar'
-import CoverImage from '../components/cover-image'
 import Link from 'next/link'
+import Avatar from './avatar'
+import CoverImage from './cover-image'
 import { getPostPath } from '../lib/utils'
 
-export default function HeroPost({ title, coverImage, date, excerpt, author, slug }) {
+export default function HeroPost({ title, coverImage, excerpt, author, slug }) {
   return (
     <section>
       <div className="mb-8 md:mb-16">
