@@ -1,7 +1,7 @@
 import Avatar from '../components/avatar'
-import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
 import Link from 'next/link'
+import { getPostPath } from '../lib/utils'
 
 export default function HeroPost({ title, coverImage, date, excerpt, author, slug }) {
   return (
@@ -12,13 +12,10 @@ export default function HeroPost({ title, coverImage, date, excerpt, author, slu
       <div className="md:grid md:grid-cols-2 md:col-gap-16 lg:col-gap-8 mb-20 md:mb-28">
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
-            <Link as={slug} href="/[slug]">
+            <Link as={getPostPath(slug)} href="/[slug]">
               <a className="hover:underline">{title}</a>
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
-          </div>
         </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>

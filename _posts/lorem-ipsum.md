@@ -1,15 +1,15 @@
 ---
-title: 'Preview Mode for Static Generation'
-description: 'Learn more about preview modes for Static Generation'
+title: 'Lorem Ipsum'
+description: 'Learn more about Lorem Ipsum'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-01-16T05:35:07.322Z'
+coverImage: '/assets/blog/lorem-ipsum/cover.jpg'
+date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  website: https://example.com
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Philipp Muens
+  website: https://philippmuens.com
+  picture: '/assets/blog/authors/philipp.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/lorem-ipsum/cover.jpg'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

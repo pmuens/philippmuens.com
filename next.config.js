@@ -1,6 +1,16 @@
 /* eslint-disable global-require */
+const { newsletterUrl } = require('./core.config')
 
 module.exports = {
+  async redirects() {
+    return [
+      {
+        source: '/subscribe',
+        destination: newsletterUrl,
+        permanent: false,
+      },
+    ]
+  },
   async rewrites() {
     return [
       {

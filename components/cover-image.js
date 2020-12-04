@@ -1,5 +1,6 @@
 import cn from 'classnames'
 import Link from 'next/link'
+import { getPostPath } from '../lib/utils'
 
 export default function CoverImage({ title, src, slug }) {
   const image = (
@@ -14,7 +15,7 @@ export default function CoverImage({ title, src, slug }) {
   return (
     <div className="sm:mx-0">
       {slug ? (
-        <Link as={slug} href="/[slug]">
+        <Link as={getPostPath(slug)} href="/[slug]">
           <a aria-label={title}>{image}</a>
         </Link>
       ) : (

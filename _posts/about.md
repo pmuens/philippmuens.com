@@ -1,15 +1,15 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-description: 'Learn more about Dynamic Routing and Static Generation'
+title: 'About Me'
+description: 'About the author'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+coverImage: '/assets/blog/about/cover.jpg'
+date: '1970-01-01T00:00:00.000Z'
 author:
-  name: JJ Kasper
-  website: https://example.com
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Philipp Muens
+  website: https://philippmuens.com
+  picture: '/assets/blog/authors/philipp.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/about/cover.jpg'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
