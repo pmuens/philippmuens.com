@@ -13,3 +13,75 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+article a {
+  text-decoration: underline;
+}
+
+p a img {
+  width: 100%;
+}
+
+ul {
+  list-style: disc;
+}
+
+ol {
+  list-style: decimal;
+}
+
+ul,
+ol {
+  padding-left: 20px;
+}
+
+div.math {
+  margin: 1.5em 0;
+}
+
+img {
+  margin: 0.8em 0;
+}
+
+code {
+  background: #d2d2d2;
+  padding: 0 5px 2px;
+  font-size: 0.8em;
+  border-radius: 5px;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #d2d2d2;
+}
+
+table th,
+td {
+  text-align: center;
+  border: 1px solid #d2d2d2;
+}
+
+pre {
+  overflow-x: auto;
+  margin-top: 1.5rem;
+  padding: 15px;
+  max-width: 100%;
+  border: 1px solid #000;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #fff;
+  line-height: 1.5em;
+  background: #000;
+}
+
+pre code {
+  padding: 0;
+  font-size: inherit;
+  line-height: inherit;
+  background: transparent;
+}
+
+blockquote {
+  margin: 0 0 1.5em;
+  padding: 0 1em;
+  border-left: 3px solid #d2d2d2;
+}
