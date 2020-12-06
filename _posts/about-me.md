@@ -1,7 +1,6 @@
 ---
 title: About Me
 description: Some information about me, my goals and the blog in general.
-excerpt: Some information about me, my goals and the blog in general.
 coverImage: /assets/blog/about-me/cover.jpg
 date: '1970-01-01T00:00:00.000Z'
 author:

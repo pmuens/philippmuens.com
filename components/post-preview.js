@@ -3,7 +3,7 @@ import Avatar from './avatar'
 import CoverImage from './cover-image'
 import { getPostPath } from '../lib/utils'
 
-export default function PostPreview({ title, coverImage, excerpt, author, slug }) {
+export default function PostPreview({ title, coverImage, description, author, slug }) {
   return (
     <div>
       <div className="mb-5">
@@ -14,7 +14,7 @@ export default function PostPreview({ title, coverImage, excerpt, author, slug }
           <a className="hover:underline">{title}</a>
         </Link>
       </h3>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-lg leading-relaxed mb-4">{description}</p>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   )

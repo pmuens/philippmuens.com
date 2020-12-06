@@ -1,7 +1,6 @@
 ---
 title: How to convert more users when their trial expires
 description: You're offering a free trial but your users aren't converting? Learn what trick you can use to boost your conversion rates and turn free users into paying customers.
-excerpt: You're offering a free trial but your users aren't converting? Learn what trick you can use to boost your conversion rates and turn free users into paying customers.
 coverImage: /assets/blog/how-to-convert-more-users-when-their-trial-expires/cover.jpg
 date: '2020-09-28T14:00:14.000Z'
 author:

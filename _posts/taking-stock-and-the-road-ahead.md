@@ -1,7 +1,6 @@
 ---
 title: Taking stock and the road ahead
 description: What I learned during the first half of 2020 while studying Machine Learning and Homomorphic Encryption.
-excerpt: What I learned during the first half of 2020 while studying Machine Learning and Homomorphic Encryption.
 coverImage: /assets/blog/taking-stock-and-the-road-ahead/cover.jpg
 date: '2020-09-15T18:28:18.000Z'
 author:

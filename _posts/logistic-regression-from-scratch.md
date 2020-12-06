@@ -1,7 +1,6 @@
 ---
 title: Logistic Regression from scratch
 description: Learn how to use the Logistic Regression model to classify unseen data.
-excerpt: Learn how to use the Logistic Regression model to classify unseen data.
 coverImage: /assets/blog/logistic-regression-from-scratch/cover.jpg
 date: '2020-06-25T13:12:32.000Z'
 author:

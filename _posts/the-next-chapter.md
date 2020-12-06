@@ -1,7 +1,6 @@
 ---
 title: The Next Chapter
 description: Artificial Intelligence slowly but surely takes over our daily lives. Let's peek under the covers to learn how it works and ensure that it's used for good.
-excerpt: Artificial Intelligence slowly but surely takes over our daily lives. Let's peek under the covers to learn how it works and ensure that it's used for good.
 coverImage: /assets/blog/the-next-chapter/cover.jpg
 date: '2020-02-28T15:05:27.000Z'
 author:

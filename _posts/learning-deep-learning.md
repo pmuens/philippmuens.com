@@ -1,7 +1,6 @@
 ---
 title: Learning Deep Learning
 description: A curriculum to self-study Machine- and Deep learning with zero prior knowledge.
-excerpt: A curriculum to self-study Machine- and Deep learning with zero prior knowledge.
 coverImage: /assets/blog/learning-deep-learning/cover.jpg
 date: '2019-03-05T14:42:00.000Z'
 author:

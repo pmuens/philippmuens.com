@@ -1,7 +1,6 @@
 ---
 title: How to optimize your Landing Page for Lead Generation
 description: A step-by-step guide on how to figure out what your customers are looking for when visiting your Landing Page to convert more users and generate more leads.
-excerpt: A step-by-step guide on how to figure out what your customers are looking for when visiting your Landing Page to convert more users and generate more leads.
 coverImage: /assets/blog/how-to-optimize-your-landing-page-for-lead-generation/cover.jpg
 date: '2020-10-06T07:00:30.000Z'
 author:

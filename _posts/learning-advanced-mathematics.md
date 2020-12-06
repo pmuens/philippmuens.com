@@ -1,7 +1,6 @@
 ---
 title: Learning Advanced Mathematics
 description: A curriculum to self-study advanced mathematics with minimal prior knowledge.
-excerpt: A curriculum to self-study advanced mathematics with minimal prior knowledge.
 coverImage: /assets/blog/learning-advanced-mathematics/cover.jpg
 date: '2019-02-19T09:57:00.000Z'
 author:

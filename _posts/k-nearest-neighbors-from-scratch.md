@@ -1,7 +1,6 @@
 ---
 title: K-nearest neighbors from scratch
 description: Learn how k-NN leverages your existing data to help classify new, unseen data.
-excerpt: Learn how k-NN leverages your existing data to help classify new, unseen data.
 coverImage: /assets/blog/k-nearest-neighbors-from-scratch/cover.jpg
 date: '2020-03-17T14:07:10.000Z'
 author:

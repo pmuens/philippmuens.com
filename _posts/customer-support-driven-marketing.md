@@ -1,7 +1,6 @@
 ---
 title: How to use your customer support system to inform your product marketing
 description: You love working on your product but marketing isn't your cup of tea? Learn how to use your support system to generate content marketing ideas for you.
-excerpt: You love working on your product but marketing isn't your cup of tea? Learn how to use your support system to generate content marketing ideas for you.
 coverImage: /assets/blog/customer-support-driven-marketing/cover.jpg
 date: '2020-09-22T11:54:48.000Z'
 author:

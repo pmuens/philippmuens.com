@@ -3,7 +3,7 @@ import Avatar from './avatar'
 import CoverImage from './cover-image'
 import { getPostPath } from '../lib/utils'
 
-export default function HeroPost({ title, coverImage, excerpt, author, slug }) {
+export default function HeroPost({ title, coverImage, description, author, slug }) {
   return (
     <section>
       <div className="mb-8 md:mb-16">
@@ -18,7 +18,7 @@ export default function HeroPost({ title, coverImage, excerpt, author, slug }) {
           </h3>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4">{description}</p>
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>
