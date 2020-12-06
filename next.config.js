@@ -9,6 +9,31 @@ module.exports = {
         destination: newsletterUrl,
         permanent: false,
       },
+      {
+        source: '/posts/learning-advanced-mathematics',
+        destination: '/learning-advanced-mathematics',
+        permanent: true,
+      },
+      {
+        source: '/posts/learning-deep-learning',
+        destination: '/learning-deep-learning',
+        permanent: true,
+      },
+      {
+        source: '/posts/minimax-and-monte-carlo-tree-search',
+        destination: '/minimax-and-mcts',
+        permanent: true,
+      },
+      {
+        source: '/posts/word2vec-intuition',
+        destination: '/word2vec-intuition',
+        permanent: true,
+      },
+      {
+        source: '/posts/generics',
+        destination: '/generics',
+        permanent: true,
+      },
     ]
   },
   async rewrites() {
