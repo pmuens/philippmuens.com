@@ -17,7 +17,7 @@ It's been half a year since I started to work on that endeavor and I believe now
 
 ## Goal 1: Implementing Machine Learning algorithms from scratch
 
-The last 6 months I spent a good portion of my time diving deep into fundamental Machine Learning algorithms such as [Gradient Descent](/gradient-descent-from-scratch/), [Naive Bayes](/naive-bayes-from-scratch/) and [Logistic Regression](/logistic-regression-from-scratch/). To get the most out of this learning experience I implemented all the algorithms from scratch and shared my learnings via code examples on [GitHub](https://github.com/pmuens/lab#x-from-scratch) and dedicated in-depth blog post I published on this blog. If you're curious you can find the whole "Machine Learning Algorithms" blog post series [here](/tag/machine-learning/).
+The last 6 months I spent a good portion of my time diving deep into fundamental Machine Learning algorithms such as [Gradient Descent](/gradient-descent-from-scratch/), [Naive Bayes](/naive-bayes-from-scratch/) and [Logistic Regression](/logistic-regression-from-scratch/). To get the most out of this learning experience I implemented all the algorithms from scratch and shared my learnings via code examples on [GitHub](https://github.com/pmuens/lab#x-from-scratch) and dedicated in-depth blog post I published on this blog.
 
 Overall I'm pretty happy with the outcome and can say that doing this was totally worth it. I wholeheartedly enjoyed the process from knowing next to nothing about the topic at hand to learning the underlying mathematics and implementing a fully working prototype solely based on reading through a bunch of books, Wikipedia articles and whitepapers.
 
