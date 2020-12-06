@@ -12,7 +12,7 @@ export default function Footer() {
             © {new Date().getFullYear()} {author}
           </h3>
           <div className="flex font-bold flex-col lg:flex-row justify-end items-center lg:pl-4 lg:w-1/2">
-            <Link as={getPostPath('about')} href={getPostPath('about')}>
+            <Link as={getPostPath('about-me')} href={getPostPath('about-me')}>
               <a className="hover:underline">About Me</a>
             </Link>
             <a href={twitterUrl} target="_blank" rel="noreferrer" className="mx-3 hover:underline">

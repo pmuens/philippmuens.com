@@ -13,7 +13,7 @@ export default function Intro() {
         {blogName}
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        <Link as={getPostPath('about')} href={getPostPath('about')}>
+        <Link as={getPostPath('about-me')} href={getPostPath('about-me')}>
           <a className="underline">My</a>
         </Link>{' '}
         {description}
