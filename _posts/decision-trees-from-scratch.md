@@ -478,6 +478,10 @@ Using [Gini Impurity](https://en.wikipedia.org/wiki/Decision_tree_learning#Gini_
 
 Given their visual nature, Decision Trees are a class of Machine Learning algorithms which is easy to inspect, debug and understand. On the other hand they also tend to overfit to the data they're trained on. Combining multiple, different Decision Trees into a so-called "Random Forest" mitigates this problems, turning single Decision Trees into a powerful ensemble.
 
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
+
 ## Additional Resources
 
 The following is a list with resources I've used while working on this article. Other, interesting resources are linked within the article itself:

@@ -309,6 +309,10 @@ Most large-scale Machine Learning projects already faced some, if not all of the
 
 What do you think? Is Swift for TensorFlow the future or do we stick with Python for now? Will a language such as Julia dominate the Data Science and Machine Learning world in the future?
 
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
+
 ## Additional Resources
 
 The following is a list of resources I've used to compile this blog post. There are also a couple of other sources linked within the article itself.

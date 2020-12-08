@@ -157,6 +157,6 @@ The main task of your Landing Page is to clearly articulate the benefits your ta
 
 Doing so cannot be done with a generic template you've downloaded and filled out. You need to tailor your messaging to your future potential customers. One way to learn what your users will pay attention to is to study what your competition did back in the day when they published and promoted their very first Landing Page. In this blog posts we learned a structured way to identify your main competition and reverse-engineer their Landing Pages in great detail.
 
-I hope that you enjoyed this article and I'd love to invite you to subscribe to my Newsletter if you're interested in more, action-oriented posts like this.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
 
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

@@ -504,6 +504,10 @@ In this blog post we took a deep dive into Logistic Regression and all its movin
 
 Once we understood the mathematics and implemented the formulas in code we took an example data set and applied our Logistic Regression model to a binary classification problem. After training our model we were able to draw the decision boundary it learned to visually validate that it correctly learned how to separate the data into two (binary) subsets.
 
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
+
 ## Additional Resources
 
 The following is a list of resources I've used to write this article. Other, useful resources are linked within the article itself:

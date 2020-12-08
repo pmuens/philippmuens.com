@@ -249,7 +249,9 @@ In this post we've dissected all the different parts the Gradient Descent algori
 
 Modern Machine Learning libraries such as [TensorFlow](https://www.tensorflow.org) or [PyTorch](https://pytorch.org) ship with built-in differentiation capabilities to automatically compute partial derivatives, removing the need to implement the tedious Math yourself.
 
-I hope that this post was helpful and demystified some of the inner workings of Machine Learning libraries you use in your projects on a day to day basis.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
 
 ## Additional Resources
 

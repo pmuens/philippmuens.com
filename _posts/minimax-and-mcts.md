@@ -297,7 +297,9 @@ While [Minimax](https://en.wikipedia.org/wiki/Minimax) combined with [Alpha-Beta
 
 Raw Minimax and MCTS are only the start and can easily be extended and modified to work in more complex environments. [DeepMind](https://deepmind.com/) cleverly [combined MCTS with Deep Neural Networks](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) to predict Go game moves whereas [IBM](https://ibm.com/)extended Alpha-Beta tree search to [compute the best possible Chess moves](<https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)>) to play.
 
-I hope that this introduction to Game AI algorithms sparked your interest in Artificial Intelligence and helps you understand the underlying mechanics you'll encounter the next time you pick up a board game on your computer.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
 
 ## Additional Resources
 

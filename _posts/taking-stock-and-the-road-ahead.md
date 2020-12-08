@@ -66,3 +66,7 @@ Over the last couple of weeks I took some time to reflected more on that experie
 Given what I've learned over the last 6 months I plan to make this whole blog a lot more personal. While I'll continue to publish long-form educational content and essays I'll switch the main focus on the "making" side of things.
 
 Essentially I'll start to "document rather than create". A lot of content never saw the light of day due to the artificial "it has to be article-worthy" filter I used to determine what's worth sharing. I strongly believe that it's helpful to learn in public. In fact there's a lot I learned from others this way!
+
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

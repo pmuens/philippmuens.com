@@ -231,4 +231,6 @@ We've implemented our own `filter` function to understand why generic programmin
 
 Once we understood how to read and write Generic functions we've discovered how typing and Generics can help us to get a sense of what a function might be doing just by looking at its signature.
 
-I hope that you've enjoyed this journey and feel equipped to read and write highly generic code.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

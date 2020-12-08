@@ -101,6 +101,6 @@ Unfortunately a lot of SaaS services only offer a very binary option for their s
 
 Offering a way to pause a subscription is a simple, yet effective way to retain and eventually reactive your existing customers. Remember that a pause is temporary. If you follow-up with them on a continuous basis and help them succeed they'll eventually come back. Maybe even as a raving, more loyal fan of your brand.
 
-I hope that you enjoyed this article and I'd love to invite you to subscribe to my Newsletter if you're interested in more, action-oriented posts like this.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
 
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

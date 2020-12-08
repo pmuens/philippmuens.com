@@ -318,6 +318,10 @@ The basic idea of Linear Regression is to find an equation for a line which best
 
 As it turns out Linear Regression is a specialized form of [Multiple Linear Regression](https://en.wikipedia.org/wiki/Linear_regression#Simple_and_multiple_linear_regression) which makes it possible to deal with multidimensional data by expressing the $x$ and $m$ values as vectors. While this requires the usage of techniques such as the [dot-product](https://en.wikipedia.org/wiki/Dot_product) from the realm of [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra) the basic principles still apply. In Multiple Linear Regression we're just trying to find a "best fitting" hyperplane rather than a line.
 
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
+
 ## Additional Resources
 
 The following is a list with resources I've used while working on this blog post. Other useful resources are linked within the article itself.

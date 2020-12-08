@@ -96,6 +96,6 @@ Rather than jumping into the creation of a FAQ entry and calling it a day think 
 
 Doing so will save you time as you'll write an article once and for all rather than juggling different mediums like FAQs, Knowledge Bases, Documentation, User Manuals, etc. and it kick-starts your marketing efforts in a bite-sized way. Your business blog will be indexed by search engines and future customers searching for solutions to their problems will discover your article and see how your product helps them solve their issues.
 
-I hope that you enjoyed this article and I'd love to invite you to subscribe to my Newsletter if you're interested in more, action-oriented posts like this.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
 
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

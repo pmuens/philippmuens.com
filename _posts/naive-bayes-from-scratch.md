@@ -449,6 +449,10 @@ While we've used the classic spam filtering use case to deconstruct Naive Bayes,
 
 Given that recent developments in Deep Learning called [Probabilistic Deep Learning](https://arxiv.org/abs/1908.03442) incorporate Bayesian thinking into their underlying models it's a good investment to solidify the understanding about Bayes Theorem and its application via Naive Bayes.
 
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
+
 ## Additional Resources
 
 One of the main resource I studied while learning about Machine Learning algorithms such as Naive Bayes is the book "[Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)" by [Joel Grus](https://joelgrus.com). This book is pure gold as it teaches you all the nitty gritty details about the most fundamental algorithms out there. If you haven't already, do yourself a favor and purchase a copy of this book. It's worth it.

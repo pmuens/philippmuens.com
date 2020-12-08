@@ -240,3 +240,7 @@ Another, final tip I'd like to share is that you should really keep track of you
 In this blog post I've shared my journey from being someone who acknowledged Math as something one should've heard about to someone who learned to love Math and its applications to solve complex problems. In order to really understand and learn more about Artificial Intelligence and Deep Learning I created a Curriculum which does not only cover the underlying Math concepts of such disciplines but will serve the student well when learning more about other "Hard Sciences" such as Computer Science in general, Physics, Meteorology, Biology, etc.
 
 I'm still early in my Math journey and there's an infinite amount of exciting stuff to learn. With the given Curriculum I feel confident that I've gained a solid foundation to pick up more complex topics I'll encounter while learning about Artificial Intelligence, Deep Learning and Advanced Mathematics in general.
+
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

@@ -249,7 +249,9 @@ Given that, we need 2 core functions to implement k-NN. The first function calcu
 
 Using both functions together brings k-NN to life and makes it possible to reliably label unseen data points.
 
-I hope that this post was helpful and demystified the inner workings of the k-nearest neighbors algorithm.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
 
 _Thanks to Eric Nieuwland who reached out via E-Mail and provided some code simplifications!_
 

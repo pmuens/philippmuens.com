@@ -487,6 +487,10 @@ Another, more advanced example mapped colors and their RGB representation into a
 
 With this knowledge we're now able to understand how more advanced models such as [Word2Vec](https://en.wikipedia.org/wiki/Word2vec) or [Doc2Vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) make it possible to do calculations on words and texts.
 
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
+
+Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
+
 ## The Lab
 
 You can find more code examples, experiments and tutorials in my GitHub [Lab](https://github.com/pmuens/lab) repository.

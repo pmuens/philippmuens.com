@@ -107,6 +107,6 @@ One of the underlying core problem with all this is a lack of user engagement. P
 
 You can use this fact and offer a paid trial which incentivizes your users to take action and explore the values your product has to offer. Having a more engaged user base helps you tackle the conversion-related problems you might be facing.
 
-I hope that you enjoyed this article and I'd love to invite you to subscribe to my Newsletter if you're interested in more, action-oriented posts like this.
+I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
 
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
