@@ -9,6 +9,8 @@ import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import markdownToHtml from '../../lib/markdownToHtml'
+import { getPostPath } from '../../lib/utils'
+import { domain } from '../../core.config'
 
 export default function Post({ post, preview }) {
   const router = useRouter()
@@ -26,6 +28,7 @@ export default function Post({ post, preview }) {
             <NextSeo
               title={post.title}
               description={post.description}
+              canonical={`${domain}${getPostPath(post.slug)}`}
               openGraph={{ images: [{ url: post.ogImage.url, alt: post.title }] }}
             />
             <article className="mb-32">
