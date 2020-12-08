@@ -1,5 +1,6 @@
 import { DefaultSeo } from 'next-seo'
 import '../styles/index.css'
+import '../styles/prism-theme.css'
 import { domain, blogName, blogDescription } from '../core.config'
 
 export default function MyApp({ Component, pageProps }) {
