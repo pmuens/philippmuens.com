@@ -44,7 +44,7 @@ It's hard to gain any insights into the data we're dealing with by manually exam
 
 Given that we're dealing with 2 dimensions (the **number of claims** and the **issued payments**) one of the potential diagrams we can create is a so called [scatter plot](https://en.wikipedia.org/wiki/Scatter_plot) which uses [(Cartesian) coordinates](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) to display the values of a given data set. In our case we treat the **number of claims** as our $x$-axis and the **issued payments** as our $y$-axis and plot the data we recorded at the intersections of such axes which results in the following diagram:
 
-![Linear- and Multiple Regression 1](/assets/blog/linear-and-multiple-regression-from-scratch/zbp_auto_insur_sweden_scatter.png)
+![Linear- and Multiple Regression 1](/assets/blog/linear-and-multiple-regression-from-scratch/auto_insur_sweden_scatter.png)
 
 Solely by looking at the diagram we can already identify a trend in the data. It seems to be the case that the more claims were filed, the more payments were issued. Intuitively that makes sense.
 
@@ -79,7 +79,7 @@ $$
 y = 1x + 0
 $$
 
-![Linear- and Multiple Regression 2](/assets/blog/linear-and-multiple-regression-from-scratch/zbp_slope_m.png)
+![Linear- and Multiple Regression 2](/assets/blog/linear-and-multiple-regression-from-scratch/slope_m.png)
 
 As you can see for every step of size $1$ in the $x$ direction we "go" a step of size $1$ in the $y$ direction.
 
@@ -91,7 +91,7 @@ $$
 y = 1x + 1
 $$
 
-![Linear- and Multiple Regression 3](/assets/blog/linear-and-multiple-regression-from-scratch/zbp_intercept_b.png)
+![Linear- and Multiple Regression 3](/assets/blog/linear-and-multiple-regression-from-scratch/intercept_b.png)
 
 The steepness of the line is the same as the previous line since we haven't modified $m$. However if you take a look at $x = 0$ you'll notice that the line crosses the $y$ intercept at $1$. That's exactly what the parameter $b$ is responsible for. Through $b$ we can control where our line should start on the $y$ axis when $x = 0$.
 
@@ -116,7 +116,7 @@ $$
 y = 4x + 2
 $$
 
-![Linear- and Multiple Regression 4](/assets/blog/linear-and-multiple-regression-from-scratch/zbp_manual_estimate.png)
+![Linear- and Multiple Regression 4](/assets/blog/linear-and-multiple-regression-from-scratch/manual_estimate.png)
 
 Not too bad for our first guess! Just by looking at the plotted line we might ask ourselves if there's better fitting line? Can we quantify how good our line fits the data?
 
@@ -247,13 +247,13 @@ print(f'Best estimate for "b": {b}')
 
 Running this algorithm results in a best estimate for the $m$ and $b$ values. Let's compare our initial guess of $m$ and $b$ (the guess we started with at the top of the code snippet) with the values our Gradient Descent implementation produced:
 
-![Linear- and Multiple Regression 5](/assets/blog/linear-and-multiple-regression-from-scratch/zbp_gd_init.png)
+![Linear- and Multiple Regression 5](/assets/blog/linear-and-multiple-regression-from-scratch/gd_init.png)
 
 $$
 m = 0, b = 200
 $$
 
-![Linear- and Multiple Regression 6](/assets/blog/linear-and-multiple-regression-from-scratch/zbp_gd_result.png)
+![Linear- and Multiple Regression 6](/assets/blog/linear-and-multiple-regression-from-scratch/gd_result.png)
 
 $$
 m \approx 3.40, b \approx 20.30
