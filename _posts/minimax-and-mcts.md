@@ -3,6 +3,7 @@ title: Minimax and Monte Carlo Tree Search
 description: Understanding the underpinnings of modern Game AIs.
 coverImage: /assets/blog/minimax-and-mcts/cover.jpg
 date: '2019-04-02T16:21:00.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

@@ -35,23 +35,25 @@ async function main() {
   })
 
   const posts = await getAllPosts()
-  posts.forEach((post) => {
-    // eslint-disable-next-line no-shadow
-    const { title, description, content, author, date, slug } = post
-    const postPath = getPostPath(slug)
-    const url = domain + postPath
+  posts
+    .filter((post) => !post.hidden)
+    .forEach((post) => {
+      // eslint-disable-next-line no-shadow
+      const { title, description, content, author, date, slug } = post
+      const postPath = getPostPath(slug)
+      const url = domain + postPath
 
-    feed.addItem({
-      title,
-      id: url,
-      link: url,
-      description,
-      content,
-      author: [author],
-      contributor: [author],
-      date: new Date(date),
+      feed.addItem({
+        title,
+        id: url,
+        link: url,
+        description,
+        content,
+        author: [author],
+        contributor: [author],
+        date: new Date(date),
+      })
     })
-  })
 
   const rssDirPath = join(publicDirPath, 'rss')
 

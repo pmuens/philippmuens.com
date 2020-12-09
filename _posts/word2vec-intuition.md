@@ -3,6 +3,7 @@ title: The intuition behind Word2Vec
 description: Learn how modern NLP based on word embeddings work.
 coverImage: /assets/blog/word2vec-intuition/cover.jpg
 date: '2019-06-04T18:22:00.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

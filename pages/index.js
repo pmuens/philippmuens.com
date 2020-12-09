@@ -7,7 +7,7 @@ import { getAllPosts } from '../lib/api'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  const morePosts = allPosts.filter((post) => !post.hidden).slice(1)
   return (
     <>
       <Layout>
@@ -31,7 +31,15 @@ export default function Index({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const allPosts = getAllPosts(['title', 'description', 'date', 'slug', 'author', 'coverImage'])
+  const allPosts = getAllPosts([
+    'title',
+    'description',
+    'date',
+    'slug',
+    'author',
+    'hidden',
+    'coverImage',
+  ])
 
   return {
     props: { allPosts },

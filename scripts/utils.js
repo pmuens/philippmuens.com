@@ -16,7 +16,7 @@ async function getAllPosts() {
       const realSlug = slug.replace(/\.md$/, '')
       const fileContent = await readFile(filePath, 'utf8')
       const { data, content } = matter(fileContent)
-      const fields = ['slug', 'title', 'description', 'content', 'author', 'date']
+      const fields = ['slug', 'hidden', 'title', 'description', 'content', 'author', 'date']
       const items = {}
 
       const contentAsHtml = (

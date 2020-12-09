@@ -3,6 +3,7 @@ title: Linear- and Multiple Regression from scratch
 description: Learn how to implement one of the core Machine Learning algorithms and its big brother from scratch.
 coverImage: /assets/blog/linear-and-multiple-regression-from-scratch/cover.jpg
 date: '2020-04-30T13:12:10.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

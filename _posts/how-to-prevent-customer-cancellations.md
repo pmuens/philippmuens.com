@@ -3,6 +3,7 @@ title: How to prevent customer cancellations
 description: Learn why retaining existing customers should be the core focus of every SaaS business and what technique you can use to keep customers from leaving.
 coverImage: /assets/blog/how-to-prevent-customer-cancellations/cover.jpg
 date: '2020-10-21T10:11:10.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

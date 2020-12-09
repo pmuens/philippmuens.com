@@ -3,6 +3,7 @@ title: Gradient Descent from scratch
 description: Understand and implement one of the most fundamental optimization techniques used in Machine Learning.
 coverImage: /assets/blog/gradient-descent-from-scratch/cover.jpg
 date: '2020-03-05T14:56:26.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

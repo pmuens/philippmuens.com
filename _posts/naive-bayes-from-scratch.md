@@ -3,6 +3,7 @@ title: Naive Bayes from scratch
 description: Learn how to implement your own spam filter with the help of Bayes Theorem.
 coverImage: /assets/blog/naive-bayes-from-scratch/cover.jpg
 date: '2020-04-09T13:49:15.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

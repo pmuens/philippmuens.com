@@ -3,6 +3,7 @@ title: Decision Trees from scratch
 description: Take a deep dive into Decision Trees and program your very own based on the CART algorithm in pure Python.
 coverImage: /assets/blog/decision-trees-from-scratch/cover.jpg
 date: '2020-08-13T07:17:57.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

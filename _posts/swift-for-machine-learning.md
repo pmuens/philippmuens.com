@@ -3,6 +3,7 @@ title: Swift for modern Machine Learning
 description: Learn why Swift has the potential to replace Python as the core driver for modern Machine Learning applications.
 coverImage: /assets/blog/swift-for-machine-learning/cover.jpg
 date: '2020-02-13T13:31:03.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com

@@ -3,6 +3,7 @@ title: Generics
 description: Easily abstract and reuse existing code.
 coverImage: /assets/blog/generics/cover.jpg
 date: '2019-10-01T18:49:00.000Z'
+hidden: false
 author:
   name: Philipp Muens
   website: https://philippmuens.com
