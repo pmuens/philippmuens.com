@@ -10,6 +10,11 @@ module.exports = {
         permanent: false,
       },
       {
+        source: '/10-common-landing-page-mistakes',
+        destination: '/landing-page-mistakes',
+        permanent: true,
+      },
+      {
         source: '/posts/learning-advanced-mathematics',
         destination: '/learning-advanced-mathematics',
         permanent: true,
