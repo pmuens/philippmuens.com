@@ -16,6 +16,10 @@ Hey there, I'm Philipp 👋
 
 I love to learn and build stuff. Solving problems with technology is what I'm passionate about.
 
+Given my background in distributed computing I'm fascinated by the underlying technologies of Blockchains, Cryptocurrencies and other decentralized p2p protocols. To help fellow developers get more familiar with such tech I started the [CryptoDevHub](https://cryptodevhub.io/) project, a community-driven Knowledge Hub for aspiring Blockchain- and Crypto developers.
+
+Unfortunately there are a lot of bad actors and scammers flooding the Crypto space. To filter out high quality projects in all the noise I created [CryptoHunt](https://cryptohunt.pro/), a leaderboard of up-and-coming Blockchain- and Crypto projects.
+
 When I'm not in the implementation phase I deeply immerse myself into Math and Science, always trying to get out of the "comfort zone" to explore recent discoveries. While studying such topics I follow the [Feynman Technique](https://fs.blog/2012/04/feynman-technique/) and consolidate my learnings in blog posts and code I share on this personal blog and my [GitHub account](https://github.com/pmuens).
 
 I worked at [Serverless, Inc.](http://serverless.com/) as an Open Source Engineer where I co-created the [Serverless Framework](https://github.com/serverless/serverless), an Open Source tool which makes it easy to develop, manage and deploy serverless applications to different cloud providers.
