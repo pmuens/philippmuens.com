@@ -242,6 +242,4 @@ In this blog post I've shared my journey from being someone who acknowledged Mat
 
 I'm still early in my Math journey and there's an infinite amount of exciting stuff to learn. With the given Curriculum I feel confident that I've gained a solid foundation to pick up more complex topics I'll encounter while learning about Artificial Intelligence, Deep Learning and Advanced Mathematics in general.
 
-I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
-
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

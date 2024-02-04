@@ -86,6 +86,4 @@ Other than that I'm fascinated by the idea and technological challenges of priva
 
 There's no better time than now to get involved in Machine Learning. That's why I decided to fully immerse myself into the field. I'll use this blog to document the journey while we learn about bleeding edge research, turn algorithms into code and work on various projects while decoding the underpinnings of the intelligent technologies which drive our daily lives.
 
-I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
-
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

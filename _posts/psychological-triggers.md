@@ -118,6 +118,4 @@ In this post we learned about several Psychological Triggers you can use to nudg
 
 Leveraging such triggers is a powerful way to make your product more successful and put it ahead of your competition. However keep in mind to solely use them in **ethical ways**. Play the long-term game by being genuine and helpful.
 
-I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
-
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

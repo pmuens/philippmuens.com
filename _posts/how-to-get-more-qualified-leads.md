@@ -70,6 +70,4 @@ Performing the call-to-action means that the user is aligned with your vision an
 
 Politely asking your user to perform a second action can result in a closer relationship, more engagement and more qualified leads as only those users who are fully invested in your mission are likely to perform that second action.
 
-I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
-
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

@@ -150,6 +150,4 @@ Spending more time, thought and effort on your Landing Page can significantly im
 
 In this post we went through the 10 most common mistakes and how to avoid them. Being aware of the mistakes and the ways in which they can be resolved empowers you to build compelling Landing Pages which will resonate more with your target audience, convincing them to try your product and eventually convert into a paying customers.
 
-I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
-
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

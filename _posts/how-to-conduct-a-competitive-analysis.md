@@ -140,6 +140,4 @@ Starting a new business adventure is a risky endeavor. It takes years and a lot 
 
 In this blog post we've discovered a simple 3-step process you can apply to mitigate the risk of building something nobody wants. Via marked research you can validate that there's enough demand to enter the market and carve out your very own niche.
 
-I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
-
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).

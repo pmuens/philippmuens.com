@@ -21,14 +21,6 @@ export default function Footer() {
             <Link as="/rss" href="/rss">
               <a className="hover:underline">RSS</a>
             </Link>
-            <Link as="/subscribe" href="/subscribe">
-              <a
-                className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-                target="_blank"
-              >
-                Subscribe
-              </a>
-            </Link>
           </div>
         </div>
       </Container>

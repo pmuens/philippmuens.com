@@ -206,6 +206,4 @@ While putting this together I had the feeling that this Curriculum can look quit
 
 I personally believe that it's important to follow a goal while learning a new topic or skill. Make sure that you know **why** you want to learn Deep Learning. Do you want to solve a problem at your company? Are you planning to switch careers? Is a high level overview enough for you since you just want to be educated about AI and its social impacts? Whatever it is, keep this goal in mind as it'll make everything reasonable and easier during the hard times when the motivation might be lacking and everything just feels too hard to pick up.
 
-I hope that you enjoyed this article and I'd like to invite you to [subscribe](/subscribe) to my Newsletter if you're interested in more posts like this.
-
 Do you have any questions, feedback or comments? Feel free to reach out via E-Mail or connect with me on [Twitter](https://twitter.com/pmmuens).
