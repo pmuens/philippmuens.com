@@ -3,7 +3,7 @@ title: 10 common Landing Page mistakes and how to avoid them
 description: You've created a Landing Page but your conversion rates are low? Check if you made one of these 10 common Landing Page mistakes.
 coverImage: /assets/blog/landing-page-mistakes/cover.jpg
 date: '2020-12-09T00:00:00.000Z'
-hidden: false
+hidden: true
 author:
   name: Philipp Muens
   website: https://philippmuens.com

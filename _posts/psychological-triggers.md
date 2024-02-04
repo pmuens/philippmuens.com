@@ -3,7 +3,7 @@ title: 7 Psychological Triggers used in Growth Hacking
 description: Learn what Psychological Triggers are used to growth-hack products.
 coverImage: /assets/blog/psychological-triggers/cover.jpg
 date: '2020-12-30T00:00:00.000Z'
-hidden: false
+hidden: true
 author:
   name: Philipp Muens
   website: https://philippmuens.com

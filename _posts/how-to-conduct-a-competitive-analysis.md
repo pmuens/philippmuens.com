@@ -3,7 +3,7 @@ title: How to conduct a competitive analysis
 description: You have a business idea but you're not sure if you're solving a real problem. Use this competitive analysis framework to figure it out.
 coverImage: /assets/blog/how-to-conduct-a-competitive-analysis/cover.jpg
 date: '2020-12-16T00:00:00.000Z'
-hidden: false
+hidden: true
 author:
   name: Philipp Muens
   website: https://philippmuens.com

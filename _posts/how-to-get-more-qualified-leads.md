@@ -3,7 +3,7 @@ title: How to get more qualified leads
 description: Learn how you can optimize your onboarding flow to generate more engaged and qualified leads.
 coverImage: /assets/blog/how-to-get-more-qualified-leads/cover.jpg
 date: '2020-12-22T00:00:00.000Z'
-hidden: false
+hidden: true
 author:
   name: Philipp Muens
   website: https://philippmuens.com
