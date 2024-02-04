@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import cn from 'classnames'
 import Container from './container'
 
@@ -25,12 +24,9 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              <Link as="/subscribe" href="/subscribe">
-                <a className="underline" target="_blank">
-                  Subscribe
-                </a>
-              </Link>{' '}
-              to my Newsletter to stay up to date
+              <a className="underline" href="https://muens.io">
+                Click here to visit to my new blog
+              </a>
             </>
           )}
         </div>
