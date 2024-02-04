@@ -6,8 +6,11 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 
 export default function Index({ allPosts }) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.filter((post) => !post.hidden).slice(1)
+  const visiblePosts = allPosts.filter((post) => !post.hidden)
+
+  const heroPost = visiblePosts[0]
+  const morePosts = visiblePosts.slice(1)
+
   return (
     <>
       <Layout>
