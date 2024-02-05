@@ -25,7 +25,7 @@ export default function Alert({ preview }) {
           ) : (
             <>
               <a className="underline" href="https://muens.io">
-                Click here to visit to my new blog
+                Click here to visit my new blog
               </a>
             </>
           )}
